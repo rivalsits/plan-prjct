@@ -3,5 +3,5 @@ Plan Project :
 2. Create a Prototype Interface Web or Mobile
 3. Create a Program 
 4. Testing a Program
-5. Create a Documentation Program
 6. Publish a Program
+7. Testing program use blackbox and whitebox testing      
