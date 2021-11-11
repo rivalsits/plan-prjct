@@ -1,8 +1,8 @@
 Rivals Plan Content :
 
 *Website
- 1. Membuat website official 
- 2. Pembuatan website official menggunakan Framework Code Igniter
+ 1. Create website official 
+ 2. Create website official menggunakan Framework Code Igniter
 *Content Video in Youtube
 *Documentation
 *Content Tutorial in Youtube
