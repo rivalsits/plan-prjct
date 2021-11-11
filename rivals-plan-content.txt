@@ -3,10 +3,12 @@ Rivals Plan Content :
 *Website
  1. Create website official 
  2. Create website official menggunakan Framework Code Igniter
-  -Favourite Product
-  -Contact Person
+    -Catalog Service
+    -Contact Person
 *Create Portfolio
  -Content Program and Networking
 *Content Video in Youtube
 *Content Tutorial in Youtube
-  
+ -Security Network
+*Webinar: Benefit Machine Learning and AI
+
